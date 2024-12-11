@@ -1,1 +1,1 @@
-# digiicampus
+# Mini project
